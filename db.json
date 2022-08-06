@@ -1,0 +1,196 @@
+{
+  "products": [
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag1",
+      "name": "GOW:Ragnarok",
+      "category": "Juegos",
+      "price": "30.000",
+      "url": "./img/god_of_war_ragnarok-5706431.jpg",
+      "description": "Kratos y Atreus deben viajar a cada uno de los Nueve Reinos en busca de respuestas mientras las fuerzas asgardianas se preparan para la batalla profetizada que supondrá el fin del mundo. Por el camino, explorarán paisajes míticos increíbles y se enfrentarán a temibles enemigos, como monstruos y dioses nórdicos."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag2",
+      "name": "Days Gone",
+      "category": "Juegos",
+      "price": "4.500",
+      "url": "./img/days gone.jpg",
+      "description": "Days Gone es un videojuego de acción y horror de supervivencia ambientado en un entorno de mundo abierto,​post-apocalíptico y jugado desde una perspectiva en tercera persona. El jugador toma el control del protagonista del juego, Deacon St. GRATIS una botella temática."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag3",
+      "name": "The Evil Within 2",
+      "category": "Juegos",
+      "price": "3.500",
+      "url": "./img/The-Evil-Within-2.png",
+      "description": "The Evil Within 2 continúa la historia de Sebastian Castellanos, un policía en decadencia y hostigado por su pasado, en su histriónica aventura contra la malvada corporación Mobius –a la Umbrella Corporation aquí– que ha creado un sistema llamado STEM que permite conectar la mente de varias personas en un solo ambiente."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag4",
+      "name": "RE 3: Remake",
+      "category": "Juegos",
+      "price": "6.000",
+      "url": "./img/Resident.jpeg",
+      "description": "Resident Evil 3 Remake nos cuenta la historia de la huida de Jill Valentine de Raccoon City, llevándonos a un argumento que se desarrollará durante 24 horas antes a lo visto en Resident Evil 2, durante lo transcurrido en el juego y tras él."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag5",
+      "name": "RE 8: Village",
+      "category": "Juegos",
+      "price": "11.000",
+      "url": "./img/village.jpg",
+      "description": "Resident Evil 8: Village es la octava entrega de Resident Evil, la saga de survival horror de Capcom que a lo largo de los años nos ha llevado a luchar contra zombis, mutantes y otros seres sobrenaturales."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag6",
+      "name": "Luigi’s Mansion™ 3",
+      "category": "Juegos",
+      "price": "16.000",
+      "url": "./img/luigi.jpg",
+      "description": "El juego ve a los jugadores asumir el papel de Luigi quien debe explorar un hotel embrujado de gran altura, incorporando diferentes temas en cada piso, y rescatar a sus amigos de los fantasmas que lo habitan, después de que un viejo enemigo engaña al grupo para que lo visite de vacaciones."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag7",
+      "name": "Fatal Frame",
+      "category": "Juegos",
+      "price": "16.000",
+      "url": "./img/fatal.jpg",
+      "description": "Yuri Kozukata, la protagonista, comienza a explorar este lugar en busca de su desaparecida mentora. Pronto descubre que el lugar está habitado por los fantasmas de aquellos que perecieron allí. Su única defensa es la cámara obscura, un artilugio que le permite mantenerlos a raya mediante fotos."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag8",
+      "name": "Death Mark",
+      "category": "Juegos",
+      "price": "16.000",
+      "url": "./img/death.jpg",
+      "description": "Death Mark -conocido en Japón como Shiin- es un videojuego de aventuras y terror para PS Vita ambientado en un Tokio donde, al parecer, una especie de maldición señala con una marca la inminente muerte de determinados personas."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac1",
+      "name": "Playstation 4- 1Tb",
+      "category": "Consolas",
+      "price": "150.000",
+      "url": "./img/ps4.jpg",
+      "description": "PS4 es un sistema de entretenimiento digital y la cuarta consola de sobremesa desarrollada por Sony Computer Entertainment. Cuenta con un procesador APU de ocho núcleos x86-64 Jaguar desarrollado por AMD. La GPU también fabricada por AMD Radeon tiene una potencia de procesamiento de 1,84 Teraflops."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac2",
+      "name": "Playstation 5",
+      "category": "Consolas",
+      "price": "300.000",
+      "url": "./img/ps5.jpg",
+      "description": "La PlayStation 5 es una consola de última generación, con un rendimiento potente y diseñada para brindar la mejor experiencia gamer."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac3",
+      "name": "Xbox-Series S",
+      "category": "Consolas",
+      "price": "160.000",
+      "url": "./img/xboxs.jpg",
+      "description": "La flamante Xbox Series S es mucho más compacta y estilizada que la Xbox original. Estas dos máquinas reflejan con claridad la evolución que ha experimentado el diseño de las consolas de Microsoft. La memoria principal de Xbox Series S tiene una capacidad de 10 GB, y es de tipo GDDR6."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac4",
+      "name": "Xbox-Series X",
+      "category": "Consolas",
+      "price": "300.000",
+      "url": "./img/xboxx.jpg",
+      "description": "La Xbox Series X ofrece velocidades de cuadro sensacionalmente suaves de hasta 120 FPS con la explosión visual que ofrece HDR. Sumérgete con personajes más nítidos, mundos más brillantes y detalles imposibles con auténtico 4K."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac5",
+      "name": "Nintendo Switch OLED",
+      "category": "Consolas",
+      "price": "205.000",
+      "url": "./img/consolas-5.png",
+      "description": "La Nintendo Switch OLED causa una gran impresión nada más encenderla. La nueva y magnífica pantalla de 7 pulgadas OLED te atrae con sus biseles superfinos, sus negros perfectos y sus colores vivos, hasta el punto de que te preguntarás cómo pudiste conformarte con el deslucido panel LCD de la Switch original."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac6",
+      "name": "Nintendo Switch OLED",
+      "category": "Consolas",
+      "price": "205.000",
+      "url": "./img/consolas-6.png",
+      "description": "La Nintendo Switch OLED causa una gran impresión nada más encenderla. La nueva y magnífica pantalla de 7 pulgadas OLED te atrae con sus biseles superfinos, sus negros perfectos y sus colores vivos, hasta el punto de que te preguntarás cómo pudiste conformarte con el deslucido panel LCD de la Switch original."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac7",
+      "name": "Nintendo Switch Lite - Pokémon",
+      "category": "Consolas",
+      "price": "130.000",
+      "url": "./img/consolas-7.png",
+      "description": "La Nintendo Switch Lite es la consola perfecta para aquellos que prefieren jugar sobre la marcha y nunca se han sentido atraídos por la Switch original. Al ser más compacta y liviana, la consola se siente considerablemente mejor que su predecesora y es mucho menos tosca."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac8",
+      "name": "Nintendo Switch Lite - Pokémon",
+      "category": "Consolas",
+      "price": "130.000",
+      "url": "./img/consolas-8.png",
+      "description": "La Nintendo Switch Lite es la consola perfecta para aquellos que prefieren jugar sobre la marcha y nunca se han sentido atraídos por la Switch original. Al ser más compacta y liviana, la consola se siente considerablemente mejor que su predecesora y es mucho menos tosca."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa1",
+      "name": "Ash-Pokemon",
+      "category": "Amiibo",
+      "price": "10.000",
+      "url": "./img/ash.png",
+      "description": "Los amiibo son figuras y tarjetas interactivas que puedes usar con tus juegos. Usa un amiibo mientras estás jugando a un juego compatible de Nintendo Switch, Nintendo 3DS o Wii U y descubrirás sorprendentes nuevas funciones. Los amiibo tienen diferentes efectos dependiendo del juego."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa2",
+      "name": "Squirtle",
+      "category": "Amiibo",
+      "price": "10.000",
+      "url": "./img/squirtle.jpg",
+      "description": "Los amiibo son figuras y tarjetas interactivas que puedes usar con tus juegos. Usa un amiibo mientras estás jugando a un juego compatible de Nintendo Switch, Nintendo 3DS o Wii U y descubrirás sorprendentes nuevas funciones. Los amiibo tienen diferentes efectos dependiendo del juego."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa3",
+      "name": "Charmander",
+      "category": "Amiibo",
+      "price": "10.000",
+      "url": "./img/charmander.png",
+      "description": "Los amiibo son figuras y tarjetas interactivas que puedes usar con tus juegos. Usa un amiibo mientras estás jugando a un juego compatible de Nintendo Switch, Nintendo 3DS o Wii U y descubrirás sorprendentes nuevas funciones. Los amiibo tienen diferentes efectos dependiendo del juego."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa4",
+      "name": "Pikachu",
+      "category": "Amiibo",
+      "price": "10.000",
+      "url": "./img/amiibo-4.png",
+      "description": "Los amiibo son figuras y tarjetas interactivas que puedes usar con tus juegos. Usa un amiibo mientras estás jugando a un juego compatible de Nintendo Switch, Nintendo 3DS o Wii U y descubrirás sorprendentes nuevas funciones. Los amiibo tienen diferentes efectos dependiendo del juego."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa5",
+      "name": "Bulbasaur",
+      "category": "Amiibo",
+      "price": "10.000",
+      "url": "./img/bulba.png",
+      "description": "Los amiibo son figuras y tarjetas interactivas que puedes usar con tus juegos. Usa un amiibo mientras estás jugando a un juego compatible de Nintendo Switch, Nintendo 3DS o Wii U y descubrirás sorprendentes nuevas funciones. Los amiibo tienen diferentes efectos dependiendo del juego."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa6",
+      "name": "JigglyPuff",
+      "category": "Amiibo",
+      "price": "10.000",
+      "url": "./img/jiggly.png",
+      "description": "Los amiibo son figuras y tarjetas interactivas que puedes usar con tus juegos. Usa un amiibo mientras estás jugando a un juego compatible de Nintendo Switch, Nintendo 3DS o Wii U y descubrirás sorprendentes nuevas funciones. Los amiibo tienen diferentes efectos dependiendo del juego."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa7",
+      "name": "Luigi",
+      "category": "Amiibo",
+      "price": "10.000",
+      "url": "./img/luigiam.jpg",
+      "description": "Los amiibo son figuras y tarjetas interactivas que puedes usar con tus juegos. Usa un amiibo mientras estás jugando a un juego compatible de Nintendo Switch, Nintendo 3DS o Wii U y descubrirás sorprendentes nuevas funciones. Los amiibo tienen diferentes efectos dependiendo del juego."
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa8",
+      "name": "Mario",
+      "category": "Amiibo",
+      "price": "10.000",
+      "url": "./img/mario.jpg",
+      "description": "Los amiibo son figuras y tarjetas interactivas que puedes usar con tus juegos. Usa un amiibo mientras estás jugando a un juego compatible de Nintendo Switch, Nintendo 3DS o Wii U y descubrirás sorprendentes nuevas funciones. Los amiibo tienen diferentes efectos dependiendo del juego."
+    }
+  ]
+}
